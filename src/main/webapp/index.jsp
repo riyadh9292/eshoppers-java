@@ -1,0 +1,1 @@
+<% response.sendRedirect("/dropshop/home"); %>
